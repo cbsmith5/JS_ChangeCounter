@@ -1,8 +1,8 @@
-var $ = function (id) {
+var $ = function (id) { //This function provided by instructor
     return document.getElementById(id);
 }
 
-function coinCounter() {
+function coinCounter() { //coinCounter() code created by me
 
 var cents = document.getElementById("myCents").value;
     
